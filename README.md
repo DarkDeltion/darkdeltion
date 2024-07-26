@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm currently a student at the Deltion College in Zwolle. Currently im doing an education in IT support but soon will start with Software Developer. I will post my school projects mostly here in this Github account so be free to check them out!
+I'm currently a student at the Deltion College in Zwolle. Currently im doing an education in Software Developer. I will post my school projects mostly here in this Github account so be free to check them out!
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
