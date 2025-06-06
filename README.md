@@ -38,7 +38,7 @@ and spending way too much time tweaking visual designs and interfaces.
 ## 🛠️ Mijn Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,html,css,php,nodejs,mint&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,github,html,css,js,php,mint&theme=dark"/>
 </div>
 
 <br>
